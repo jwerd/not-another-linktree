@@ -1,0 +1,7 @@
+Build a link tree that doesn't suck
+
+- Ability to add links and any title (EG: Latest Video, Latest Post, My Store, etc)
+- Ability to order link items with drag and drop (this should be fun to figure out with tailwind/vue)
+- Ability to create link lists (for special occasions, etc) that you can publish to your public link list at anytime
+- Build frontend that allows a user to sign up (username becomes link list EG: linktree.dev/username)
+- Add stats?
