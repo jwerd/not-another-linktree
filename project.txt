@@ -1,4 +1,21 @@
-Build a link tree that doesn't suck
+Objective: Build a link tree that doesn't suck
+
+Tasks:
+    Build models
+        - links
+            - title
+            - url
+            - list_id
+            - active (true/false)
+
+        - lists
+            - title (default)
+            - active (true/false)
+
+    Build seeders
+    Build controllers
+    Build resources
+    Tests
 
 - Ability to add links and any title (EG: Latest Video, Latest Post, My Store, etc)
 - Ability to order link items with drag and drop (this should be fun to figure out with tailwind/vue)
